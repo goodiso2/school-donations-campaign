@@ -1,0 +1,21 @@
+{
+  "name": "school_donation_campaign",
+  "authors": [
+    "Richard Goodinson"
+  ],
+  "description": "School Donation Campaign Project",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
